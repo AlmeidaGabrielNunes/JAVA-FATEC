@@ -20,7 +20,7 @@ public class Atividade2 {
 			 } 
 		 i++; 
 		} 
-		 System.out.println("O valor e: " + mais); 
+		 System.out.println("O valor da soma e: " + mais); 
 		} 
 		} 
 	
