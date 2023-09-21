@@ -18,7 +18,7 @@ int[] numeros = new int[15]; // Declara um array de inteiros com tamanho 15
         if (numeros[i] > maior) {
             maior = numeros[i]; // Atualiza 'maior' se o valor atual for maior
         } else if (numeros[i] < menor) {
-            menor = numeros[i]; // Atualiza 'menor' se o valor atual for menor
+            menor = numeros[i]; // Atualiza 'menor' se o valor atual for menor...
         }
     }
 
